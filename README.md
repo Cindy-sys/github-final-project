@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# github-final-project
 
 This project provides a simple Bash script to calculate the simple interest based on the principal amount, annual rate of interest, and the time period.
 
