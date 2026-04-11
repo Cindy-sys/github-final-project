@@ -3,12 +3,15 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a detailed description of your changes.
+Thank you for your interest in contributing! Here are some ways you can help:
 
-## Reporting Bugs
-Please use the GitHub Issues transformer to report any bugs you find. Ensure you provide enough detail for us to reproduce the issue.
+1. **Reporting Bugs**: If you find a bug, please open an issue describing the problem and how to reproduce it.
+2. **Suggesting Enhancements**: If you have an idea for a new feature, feel free to open an issue to discuss it.
+3. **Pull Requests**:
+   - Fork the repository.
+   - Create a new branch for your changes.
+   - Ensure your code follows the project's style.
+   - Submit a pull request with a clear description of your work.
 
-## Feedback
-Your ideas and suggestions are important to us! Feel free to open an issue to discuss any enhancements.
+## Community Participation
+By participating in this project, you agree to abide by our Code of Conduct. We value your feedback and look forward to your contributions!
